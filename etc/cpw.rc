@@ -1,0 +1,5 @@
+### checkpassword rc file ###
+
+use md5
+
+location_md5 /tmp/md5pass
